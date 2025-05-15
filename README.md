@@ -1,4 +1,4 @@
-# robotica
+# robotika
 system skeletic
 <!DOCTYPE html>
 <html lang="en">
